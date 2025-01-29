@@ -2,7 +2,7 @@
 Multi-Agents AI System building from Scratch in python without any dependency of frameworks! 🤖 
 This Python-based app leverages OpenAI's GPT-4o model with a simple Streamlit web interface to tackle specialized tasks to create agentic systems without using orchestration frameworks like Crew AI or LangGraph. 🎉
 
-![ Multi Agent AI App](logo.png)
+![ Multi Agent AI App](DYT_summary.JPG)
 
 ## Table of Contents
 
